@@ -1,0 +1,9 @@
+23:53:26 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:53:55 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:00 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:10 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:12 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:12 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:13 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+23:54:14 [main] ERROR com.company.ui.controller.MenuController - Number format exception
+00:02:01 [main] ERROR com.company.ui.controller.implAction.actionRoom.ActionEditRoomStatus - Access limited by the configuration of the property
